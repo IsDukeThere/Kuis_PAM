@@ -1,4 +1,4 @@
-# kuis
+# Kuis Pemrograman Aplikasi Mobile
 
 A new Flutter project.
 
